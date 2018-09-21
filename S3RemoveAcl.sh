@@ -36,6 +36,6 @@ do
     echo "`date`: not found, continuing..."
   fi
 
-  sleep 0.5
+  sleep 2
 
 done
