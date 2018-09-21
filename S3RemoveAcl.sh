@@ -41,6 +41,7 @@ do
     echo "`date`: not found, continuing..."
   fi
 
+  sleep 1
   #echo "S3 Key"
   #echo $s3key
   #echo "Original Acl"
